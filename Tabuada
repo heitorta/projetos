@@ -1,0 +1,17 @@
+print('Tabuada do Heitorta')
+x=int(input('Coloque o número e mostrarei a tabuada: '))
+y=int
+print('-'*12)
+y1=x*1
+y2= x*2
+y3=x*3
+y4=x*4
+y5=x*5
+y6=x*6
+y7=x*7
+y8=x*8
+y9=x*9
+y10=x*10
+print(f'{x}*1=={y1}\n{x}*2=={y2}\n{x}*3=={y3}\n{x}*4=={y4}\n{x}*5=={y5}\n{x}*6=={y6}\n{x}*7=={y7}\n{x}*8=={y8}\n{x}*9=={y9}\n{x}*10=={y10}')
+print('-'* 12)
+print('Obrigado por usar!')
